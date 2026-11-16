@@ -106,4 +106,4 @@ jupyter notebook
 
 ## 👤 Auteure
 
-**Thiaba** : étudiante en Data & IA à l'ECE Paris.
+**Thiaba** : étudiante en master data .
